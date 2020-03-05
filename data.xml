@@ -1,0 +1,324 @@
+<Data>
+ <Block>
+  <BlockNr>1</BlockNr>
+  <Starttime>08:00</Starttime>
+  <Endtime>09:30</Endtime>
+ </Block>
+ <Block>
+  <BlockNr>2</BlockNr>
+  <Starttime>10:00</Starttime>
+  <Endtime>11:30</Endtime>
+ </Block>
+ <Block>
+  <BlockNr>3</BlockNr>
+  <Starttime>12:15</Starttime>
+  <Endtime>13:45</Endtime>
+ </Block>
+ <Block>
+  <BlockNr>4</BlockNr>
+  <Starttime>14:15</Starttime>
+  <Endtime>15:45</Endtime>
+ </Block>
+ <Block>
+  <BlockNr>5</BlockNr>
+  <Starttime>16:00</Starttime>
+  <Endtime>17:30</Endtime>
+ </Block>
+ <Block>
+  <BlockNr>6</BlockNr>
+  <Starttime>17:45</Starttime>
+  <Endtime>19:15</Endtime>
+ </Block>
+ <Block>
+  <BlockNr>7</BlockNr>
+  <Starttime>19:30</Starttime>
+  <Endtime>21:00</Endtime>
+ </Block>
+ <Room>
+  <Name>DE16b</Name>
+  <Building>Haus Bauwesen</Building>
+  <Seats>24</Seats>
+ </Room>
+ <Room>
+  <Name>H5 (D136)</Name>
+  <Building>Haus Bauwesen</Building>
+  <Seats>104</Seats>
+ </Room>
+ <Room>
+  <Name>D 419</Name>
+  <Building>Haus Bauwesen</Building>
+  <Seats>40</Seats>
+ </Room>
+ <Room>
+  <Name>B 152</Name>
+  <Building>Haus Gauss</Building>
+  <Seats>22</Seats>
+ </Room>
+ <Student>
+  <Name>Anna Albrecht</Name>
+  <Birthday>15.09.1989</Birthday>
+  <MatriculationNr>75777</MatriculationNr>
+  <Term>1</Term>
+  <Trait>1</Trait>
+  <Credits>15</Credits>
+ </Student>
+ <Student>
+  <Name>Detlef Dicht</Name>
+  <Birthday>27.05.1991</Birthday>
+  <MatriculationNr>76777</MatriculationNr>
+  <Term>1</Term>
+  <Trait>2</Trait>
+  <Credits>12</Credits>
+ </Student>
+ <Student>
+  <Name>Frank Faust</Name>
+  <Birthday>03.11.1987</Birthday>
+  <MatriculationNr>74777</MatriculationNr>
+  <Term>2</Term>
+  <Trait>1</Trait>
+  <Credits>17</Credits>
+ </Student>
+ <Student>
+  <Name>Max Muster</Name>
+  <Birthday>19.07.1985</Birthday>
+  <MatriculationNr>75888</MatriculationNr>
+  <Term>1</Term>
+  <Trait>1</Trait>
+  <Credits>14</Credits>
+ </Student>
+ <Teacher>
+  <Name>Nathan Neuling</Name>
+  <Birthday>23.02.1953</Birthday>
+  <PersonalNr>4567</PersonalNr>
+ </Teacher>
+ <Teacher>
+  <Name>Willi Witzig</Name>
+  <Birthday>09.11.1962</Birthday>
+  <PersonalNr>8765</PersonalNr>
+ </Teacher>
+ <Teacher>
+  <Name>Kevin Kaufmann</Name>
+  <Birthday>15.06.1958</Birthday>
+  <PersonalNr>5151</PersonalNr>
+ </Teacher>
+ <Tutor>
+  <Name>Susi Sorglos</Name>
+  <Birthday>17.01.1986</Birthday>
+  <MatriculationNr>70123</MatriculationNr>
+  <Term>17</Term>
+  <Trait>1</Trait>
+  <Credits>87</Credits>
+  <PersonalNr>1234</PersonalNr>
+  <TermsOfTutor>3</TermsOfTutor>
+ </Tutor>
+ <SubjectType>
+  <Name>Pflichtmodul</Name>
+  <RequiredSubject>true</RequiredSubject>
+  <AWSubject>false</AWSubject>
+  <FacultyNr>6</FacultyNr>
+ </SubjectType>
+ <SubjectType>
+  <Name>Wahlpflichtfach</Name>
+  <RequiredSubject>false</RequiredSubject>
+  <AWSubject>false</AWSubject>
+  <FacultyNr>6</FacultyNr>
+ </SubjectType>
+ <SubjectType>
+  <Name>Seminar</Name>
+  <RequiredSubject>true</RequiredSubject>
+  <AWSubject>false</AWSubject>
+  <FacultyNr>6</FacultyNr>
+ </SubjectType>
+ <SubjectType>
+  <Name>Studium Generale</Name>
+  <RequiredSubject>true</RequiredSubject>
+  <AWSubject>true</AWSubject>
+  <FacultyNr>1</FacultyNr>
+ </SubjectType>
+ <Subject>
+  <Name>Mathe I</Name>
+  <SubjectNr>1</SubjectNr>
+  <MaxStudents>44</MaxStudents>
+  <Term>1</Term>
+  <Credits>5</Credits>
+  <Type>Pflicht</Type>
+ </Subject>
+ <Subject>
+  <Name>Physik Ubg</Name>
+  <SubjectNr>2</SubjectNr>
+  <MaxStudents>44</MaxStudents>
+  <Term>1</Term>
+  <Credits>5</Credits>
+  <Type>Pflicht</Type>
+ </Subject>
+ <Subject>
+  <Name>Informatik I</Name>
+  <SubjectNr>3</SubjectNr>
+  <MaxStudents>44</MaxStudents>
+  <Term>1</Term>
+  <Credits>5</Credits>
+  <Type>Pflicht</Type>
+ </Subject>
+ <Subject>
+  <Name>Informatik I Ubg</Name>
+  <SubjectNr>4</SubjectNr>
+  <MaxStudents>22</MaxStudents>
+  <Term>1</Term>
+  <Credits>0</Credits>
+  <Type>Pflicht</Type>
+ </Subject>
+ <Subject>
+  <Name>Dig. Systeme</Name>
+  <SubjectNr>5</SubjectNr>
+  <MaxStudents>44</MaxStudents>
+  <Term>1</Term>
+  <Credits>5</Credits>
+  <Type>Pflicht</Type>
+ </Subject>
+ <Subject>
+  <Name>Dig. Systeme Ubg</Name>
+  <SubjectNr>6</SubjectNr>
+  <MaxStudents>22</MaxStudents>
+  <Term>1</Term>
+  <Credits>0</Credits>
+  <Type>Pflicht</Type>
+ </Subject>
+ <Subject>
+  <Name>El. Systeme</Name>
+  <SubjectNr>7</SubjectNr>
+  <MaxStudents>44</MaxStudents>
+  <Term>1</Term>
+  <Credits>5</Credits>
+  <Type>Pflicht</Type>
+ </Subject>
+ <Subject>
+  <Name>El. Systeme Ubg</Name>
+  <SubjectNr>8</SubjectNr>
+  <MaxStudents>22</MaxStudents>
+  <Term>1</Term>
+  <Credits>0</Credits>
+  <Type>Pflicht</Type>
+ </Subject>
+ <Subject>
+  <Name>Englisch</Name>
+  <SubjectNr>8</SubjectNr>
+  <MaxStudents>22</MaxStudents>
+  <Term>1</Term>
+  <Credits>5</Credits>
+  <Type>Studium Generale</Type>
+ </Subject>
+ <Lecture>
+  <Subject>Mathe I</Subject>
+  <EventNr>136001</EventNr>
+  <Teacher>Nathan Neuling</Teacher>
+  <Weekday>Mo</Weekday>
+  <Block>4</Block>
+  <Room>H5 (D136)</Room>
+  <Term>WS2013/14</Term>
+  <ExamDate>03.02.2014</ExamDate>
+ </Lecture>
+ <Practice>
+  <Subject>Physik Ubg</Subject>
+  <EventNr>136002</EventNr>
+  <Teacher>Willi Witzig</Teacher>
+  <Weekday>Di</Weekday>
+  <Block>3</Block>
+  <Room>B 152</Room>
+  <Term>WS2013/14</Term>
+  <PracticeCount>8</PracticeCount>
+ </Practice>
+ <Lecture>
+  <Subject>Informatik I</Subject>
+  <EventNr>136003</EventNr>
+  <Teacher>Kevin Kaufmann</Teacher>
+  <Weekday>Fr</Weekday>
+  <Block>3</Block>
+  <Room>D 419</Room>
+  <Term>WS2013/14</Term>
+  <ExamDate>14.02.2014</ExamDate>
+ </Lecture>
+ <Practice>
+  <Subject>Informatik I Ubg</Subject>
+  <EventNr>136004</EventNr>
+  <Teacher>Kevin Kaufmann</Teacher>
+  <Weekday>Fr</Weekday>
+  <Block>4</Block>
+  <Room>DE16b</Room>
+  <Term>WS2013/14</Term>
+  <PracticeCount>11</PracticeCount>
+ </Practice>
+ <Lecture>
+  <Subject>Englisch</Subject>
+  <EventNr>137</EventNr>
+  <Teacher>Susi Sorglos</Teacher>
+  <Weekday>Do</Weekday>
+  <Block>6</Block>
+  <Room>H5 (D136)</Room>
+  <Term>WS2013/14</Term>
+  <ExamDate>06.02.2014</ExamDate>
+ </Lecture>
+ <Booking>
+  <BookingNr>1</BookingNr>
+  <Event>Informatik I</Event>
+  <Student>Frank Faust</Student>
+  <Date>15.09.2013</Date>
+  <Time>00:14</Time>
+  <Rating>1</Rating>
+ </Booking>
+ <Booking>
+  <BookingNr>2</BookingNr>
+  <Event>Informatik I Ubg</Event>
+  <Student>Frank Faust</Student>
+  <Date>15.09.2013</Date>
+  <Time>00:17</Time>
+  <Rating>1</Rating>
+ </Booking>
+ <Booking>
+  <BookingNr>3</BookingNr>
+  <Event>Informatik I</Event>
+  <Student>Anna Albrecht</Student>
+  <Date>15.09.2013</Date>
+  <Time>01:28</Time>
+  <Rating>2</Rating>
+ </Booking>
+ <Booking>
+  <BookingNr>4</BookingNr>
+  <Event>Informatik I Ubg</Event>
+  <Student>Anna Albrecht</Student>
+  <Date>15.09.2013</Date>
+  <Time>01:29</Time>
+  <Rating>2</Rating>
+ </Booking>
+ <Booking>
+  <BookingNr>5</BookingNr>
+  <Event>Informatik I</Event>
+  <Student>Detlef Dicht</Student>
+  <Date>16.09.2013</Date>
+  <Time>09:51</Time>
+  <Rating>3</Rating>
+ </Booking>
+ <Booking>
+  <BookingNr>6</BookingNr>
+  <Event>Informatik I Ubg</Event>
+  <Student>Detlef Dicht</Student>
+  <Date>16.09.2013</Date>
+  <Time>09:55</Time>
+  <Rating>3</Rating>
+ </Booking>
+ <Booking>
+  <BookingNr>7</BookingNr>
+  <Event>Mathe I</Event>
+  <Student>Frank Faust</Student>
+  <Date>17.09.2013</Date>
+  <Time>17:48</Time>
+  <Rating>1</Rating>
+ </Booking>
+ <Booking>
+  <BookingNr>8</BookingNr>
+  <Event>Mathe I</Event>
+  <Student>Detlef Dicht</Student>
+  <Date>19.09.2013</Date>
+  <Time>22:11</Time>
+  <Rating>2</Rating>
+ </Booking>
+</Data>
